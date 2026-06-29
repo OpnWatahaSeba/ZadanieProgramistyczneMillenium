@@ -1,6 +1,0 @@
-@ZadanieProgramistyczneMillenium_HostAddress = http://localhost:5082
-
-GET {{ZadanieProgramistyczneMillenium_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
