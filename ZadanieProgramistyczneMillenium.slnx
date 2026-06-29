@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../ZadanieProgramistyczneMillenium.Tests/ZadanieProgramistyczneMillenium.Tests.csproj" Id="758b210f-9648-43c8-9303-61df2b838100" />
   <Project Path="ZadanieProgramistyczneMillenium.csproj" />
 </Solution>
